@@ -2,99 +2,99 @@
 title: 马克思主义是关于工人阶级和人类解放的科学
 ---
 
-# 马克思主义是关于工人阶级和人类解放的科学
+# An introduction to the basic principles of Marxism-introduction
 
-## 一、马克思主义的产生与发展
+## An introduction to the basic principles of Marxism-introduction
 
-1. **马克思主义的产生 - 马克思主义是时代的产物：**
+1. **The emergence of Marxism-Marxism is the product of the times:**
 
-   - 客观条件：_资本主义的发展及其内部矛盾尖锐化_
+   - Objective conditions:_The emergence of Marxism-Marxism is the product of the times;_
 
-   - 阶级基础：_工人阶级作为独立的政治力量登上历史舞台_
+   - Objective conditions:_the working class entered the historical stage as an independent political force._
 
-2. **马克思主义的直接理论来源**：
+2. **The direct theoretical source of Marxism**：
 
-| 组成部分             | 直接理论来源       | 吸收思想                               | 创立理论                   |
-| -------------------- | ------------------ | -------------------------------------- | -------------------------- |
-| 马克思主义哲学       | 德国古典哲学       | 黑格尔的辩证法和费尔巴哈的唯物主义     | 辩证唯物主义与历史唯物主义 |
-| 马克思主义经济政治学 | 英国古典政治经济学 | 亚当斯密和大为·李嘉图的劳动价值论      | 剩余价值学说               |
-| 科学社会主义         | 英法空想社会主义   | 圣西门、傅立叶和欧文的空想社会主义学说 | 科学社会主义理论           |
+| component                 | component                           | Absorb ideas                                             | Founding theory                                    |
+|---------------------------|-------------------------------------|----------------------------------------------------------|----------------------------------------------------|
+| Founding theory           | German classical philosophy         | Hegel's dialectics and Feuerbach's materialism           | Dialectical materialism and historical materialism |
+| Marxist economic politics | British classical political economy | Adam Smith and David Ricardo's Labor Theory of Value     | surplus value                                      |
+| scientific socialism      | Anglo-French utopian socialism      | Saint-Simon, Fourier and Owen's Utopian Socialism Theory | Scientific socialist theory                        |
 
-3. **马克思主义的间接理论来源 - 自然科学的三大发现：**
+3. **The Indirect Theoretical Source of Marxism-Three Discoveries of Natural Science:**
 
-   - _生物进化论_
+   - _Biological evolution theory_
 
-   - _能量守恒与转化定律_
+   - _Law of conservation and transformation of energy_
 
-   - _细胞学说_
+   - _cell theory_
 
-4. **马克思主义在实践中不断发展：**
+4. **Marxism develops continuously in practice:**
 
-   - 马克思主义公开问世的著作是：**《哲学的贫困》**和**《共产党宣言》**
-   - 改革开放以来逐渐形成**中国特色社会主义理论体系** - 走上中国特色社会主义道路
+   - The published works of Marxism are **《Poverty of Philosophy》**和**《communist party Declaration》.**
+   - Since the reform and opening up, Socialism with Chinese characteristics's theoretical system has gradually formed-on the road of Socialism with Chinese characteristics
 
-     - _不包含毛泽东思想_
+     - _Excluding Mao Zedong Thought._
 
-     - _邓小平理论、“三个代表”思想、科学发展观、习近平新时代中国特色社会主义思想_
+     - _Deng Xiaoping Theory, "Theory of Three Represents" Thought, Scientific Outlook on Development and Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era._
 
-## 二、马克思主义科学性和革命性的统一
+## The unity of scientific and revolutionary Marxism
 
-1. **马克思主义的科学内涵**
+1. **The Scientific Connotation of Marxism**
 
-   - _马克思主义的创立者和继承者_
+   - _Founder and successor of Marxism_
 
-   - _马克思主义理论体系的三个主要组成部分_
+   - _Three main components of Marxist theoretical system_
 
-2. **马克思主义的理论特征**
+2. **Theoretical characteristics of Marxism**
 
-   - **与时俱进**：
+   - **Keep pace with the times:**
 
-     - _只有体现时代性、把握规律性、富于创造性_
+     - _Only by embodying the times, grasping the regularity and being creative_
 
-   - **科学性和革命性的统一**
+   - **Unity of science and revolution**
 
-     - **革命性**：_集中表现为它的彻底的批判精神，还表现在它具有鲜明的政治立场。_
+     - **Revolutionary:**_concentrated in its thorough critical spirit, but also in its distinctive political stance._
 
-     - **科学性**：_揭示自然界和人类社会发展的客观规律。其次在于它的深刻性。经受了实践的检验并在实践中发展。_
+     - **Scientific nature:**_revealing the objective laws of the development of nature and human society. The second is its profundity. It has been tested by practice and developed in practice._
 
-3. **理想与社会理想**
+3. **Ideal and social ideal**
 
-   - **理想的含义**
+   - **The meaning of ideal**
 
-   - 全国各族人民的**共同理想**：**_建设中国特色社会主义。_**
+     - The common ideal of the people of all ethnic groups in China:**_ building Socialism with Chinese characteristics._**
 
-   - 马克思主义最高的**社会理想**：**_推翻资本主义、实现共产主义。_**
+     - The highest social ideal of Marxism:**_overthrowing capitalism and realizing communism._**
 
-   - **二者关系**
+   - **Relationship between them**
 
-   - 最高理想与共同理想，既相互区别又相互联系，二者是辩证统一的关系。
+     - The highest ideal and the common ideal are both different and interrelated, and they are dialectical and unified.
 
-   - 共同理想是实现最高理想的必经阶段和必要基础。
+     - Common ideal is the necessary stage and foundation to realize the highest ideal.
 
-   - 实现共同理想，必须坚持以最高理想为根本方向。
+     - To realize the common ideal, we must adhere to the highest ideal as the fundamental direction.
 
-## 三、学习、运用和发展马克思主义
+## Learning,Applying and Developing Marxism
 
-1. **把马克思主义作为行动的指南**
+1. **Take Marxism as a guide to action**
 
-   > 要用马克思主义的立场、观点和方法研究解决实际问题，且必须从客观存在的实际情况出发，而不能从马克思主义的一般原理出发
+   > It is necessary to study and solve practical problems with Marxist positions, viewpoints and methods, and we must proceed from the actual situation of objective existence, not from the general principles of Marxism.
 
-2. **学习马克思主义的目的和方法**
+2. **The purpose and method of studying Marxism**
 
-   - **目的：**
+   - **Purpose:**
 
-     - _树立正确的世界观、人生观和价值观_
+     - _Establish a correct world outlook, outlook on life and values._
 
-     - _掌握认识世界和改造世界的伟大工具_
+     - _Master the great tools for understanding and transforming the world._
 
-     - _全面提高人的素质指导_
+     - _Guidance on comprehensively improving people's quality._
 
-     - _中国特色社会主义伟大实践_
+     - _Socialism with Chinese characteristics's great practice._
 
-   - **根本方法**：**_理论联系实际_**
+   - **The fundamental approach**:**_Link theory with practice_**
 
-     > 理论联系实际：就是把马克思主义的基本原理作为指导,去观察和分析社会实际、工作实际和思想实际。
+     > Link theory with practice:It is to use the basic principles of Marxism as a guide to observe and analyze social reality, work reality and ideological reality.
 
-     - 要做到理论联系实际，在实际工作中必须**反对\***经验主义*和*教条主义\*两种倾向。
+     - In order to integrate theory with practice, we must completely oppose the two tendencies of **empiricism** and **dogmatism** in practical work.
 
-       > 原因：首先,这是由马克思主义的实践性决定的。其次,这是由我们学习马克思主义的目的决定的。
+       > Reason: First of all, this is determined by the practicality of Marxism. Secondly, this is determined by our purpose of studying Marxism.
