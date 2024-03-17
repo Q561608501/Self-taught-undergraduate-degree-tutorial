@@ -6,7 +6,8 @@
 
 ## 内容展示：
 
-[开始阅读](课程/马克思基本原理概论/绪论.md) [English](course/Introduction to Marx's Basic Principles/introduction.md)
+- [开始阅读](课程/马克思基本原理概论/绪论.md)
+- [English](course/Introduction to Marx's Basic Principles/introduction.md)
 
 ![展示](Image/demo.png)
 
