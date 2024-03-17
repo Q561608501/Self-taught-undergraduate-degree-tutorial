@@ -6,9 +6,9 @@
 
 ## 内容展示：
 
-[开始阅读]()
-[English]()
-![展示]()
+[开始阅读](course/Introduction%20to%20Marx's%20Basic%20Principles/绪论.md)
+[English](course/Introduction to Marx's Basic Principles/introduction.md)
+![展示](Image/demo.png)
 
 ## 更新日志：
 
@@ -18,3 +18,4 @@
 
 
 ## 赞赏
+![微信支付](Image/WeChatAppreciate.jpg)
